@@ -1,0 +1,14 @@
+
+# ROS 编译产物
+build/
+devel/
+install/
+logs/
+
+# 数据文件
+*.bag
+
+# 运行时输出
+Log/
+*.pcd
+*.txt
